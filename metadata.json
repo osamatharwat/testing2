@@ -1,0 +1,6 @@
+{
+  "name": "Aliens Space — Student Team Operating System",
+  "description": "The official digital operating system for Aliens Student Activity (Delta University Pharmacy) featuring public PR portal, recruitment, member management, strict RBAC, committee isolation, IR evaluation matrix, dynamic questions, event analytics, and secure private portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
